@@ -102,6 +102,7 @@ data/model-blacklist.json
 .opencode/settings.local.json
 .opencode/memory/
 # OpenCode project config (often holds personal MCP/model/per-machine prefs).
+.omo/
 opencode.json
 career-dashboard
 career-dashboard.exe
